@@ -11,6 +11,7 @@ You may not see very much on my github, besides very old projects because most o
 - Senior Software Engineer at @flocasts
 - Father of 2 kids
 - Minecraft mod developer
+- Gamer
 
 ### ⬆ What I'm up to
 
@@ -26,3 +27,4 @@ You may not see very much on my github, besides very old projects because most o
 - Fishing
 - Smoking meat...I was born and raised in Texas after all
 - Cooking in general
+- Gaming...of course
